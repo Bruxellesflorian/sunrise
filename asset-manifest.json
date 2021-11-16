@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sunrise/static/css/main.2f189333.chunk.css",
+    "main.js": "/sunrise/static/js/main.319d6621.chunk.js",
+    "main.js.map": "/sunrise/static/js/main.319d6621.chunk.js.map",
+    "runtime-main.js": "/sunrise/static/js/runtime-main.f675bca3.js",
+    "runtime-main.js.map": "/sunrise/static/js/runtime-main.f675bca3.js.map",
+    "static/js/2.399a508d.chunk.js": "/sunrise/static/js/2.399a508d.chunk.js",
+    "static/js/2.399a508d.chunk.js.map": "/sunrise/static/js/2.399a508d.chunk.js.map",
+    "index.html": "/sunrise/index.html",
+    "static/css/main.2f189333.chunk.css.map": "/sunrise/static/css/main.2f189333.chunk.css.map",
+    "static/js/2.399a508d.chunk.js.LICENSE.txt": "/sunrise/static/js/2.399a508d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f675bca3.js",
+    "static/js/2.399a508d.chunk.js",
+    "static/css/main.2f189333.chunk.css",
+    "static/js/main.319d6621.chunk.js"
+  ]
+}
